@@ -1,0 +1,27 @@
+{
+  "name": "sr-abhiyantra-website",
+  "version": "1.0.0",
+  "description": "SR Abhiyantra Systems Pvt. Ltd. — Premium Enterprise Workspace Solutions website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . --port 3000",
+    "dev": "npx live-server --port=3000 --open=index.html",
+    "lint:css": "npx stylelint css/style.css",
+    "lint:js": "npx eslint js/script.js"
+  },
+  "keywords": [
+    "sr-abhiyantra",
+    "office-furniture",
+    "workspace",
+    "corporate",
+    "pune",
+    "india"
+  ],
+  "author": "SR Abhiyantra Systems Pvt. Ltd.",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.0"
+  }
+}
