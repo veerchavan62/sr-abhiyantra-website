@@ -25,36 +25,7 @@ sr-abhiyantra/
 
 ## 🚀 Deployment
 
-### Option 1 — GitHub Pages (Recommended, free)
 
-1. Push this repository to GitHub
-2. Go to **Settings → Pages**
-3. Under **Source**, select `main` branch → `/ (root)` folder
-4. Click **Save** — your site goes live at:
-   ```
-   https://<your-username>.github.io/<repo-name>/
-   ```
-
-### Option 2 — Netlify (Drag & Drop)
-
-1. Go to [netlify.com](https://netlify.com) and sign in
-2. Drag the entire project folder onto the Netlify dashboard
-3. Done — Netlify gives you a live URL instantly
-
-### Option 3 — Local Development
-
-No build step needed. Just open `index.html` in any browser:
-
-```bash
-# Using Python (built-in)
-python3 -m http.server 3000
-# Then open http://localhost:3000
-
-# Or using Node.js (npx)
-npx serve .
-```
-
----
 
 ## ✅ Features
 
