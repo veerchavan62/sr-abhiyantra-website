@@ -45,15 +45,15 @@ const services=[
 ];
 
 const bentoData=[
-  {title:'Certified OEM Partner',body:'Direct procurement channel for Wipro, Godrej Interio, Gunnebo and leading enterprise brands with full manufacturer warranties and compliance documentation.',color:'#2563eb',tall:true,wide:false,
+  {title:'Certified OEM Partner',body:'Direct procurement channel for Wipro, Godrej, Gunnebo and leading enterprise brands with full manufacturer warranties and compliance documentation.',color:'#2563eb',tall:true,wide:false,
    icon:'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>'},
-  {title:'Precision Logistics',body:'Strict adherence to deployment schedules. Zero-delay supply chain optimized for large enterprise rollouts.',color:'#10b981',tall:false,wide:false,
+  {title:'Precision Logistics',body:'Strict adherence to deployment schedules. Zero delay supply chain optimized for large enterprise rollouts.',color:'#10b981',tall:false,wide:false,
    icon:'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>'},
   {title:'Turnkey Execution',body:'From spatial planning to final installation. Single point of contact with complete project ownership — no coordination gaps, ever.',color:'#8b5cf6',tall:false,wide:true,
    icon:'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>'},
-  {title:'Enterprise Pricing',body:'Direct-to-business pricing with transparent cost structures. No hidden margins on bulk acquisitions.',color:'#f59e0b',tall:false,wide:false,
+  {title:'Enterprise Pricing',body:'Direct to business pricing with transparent cost structures. No hidden margins on bulk acquisitions.',color:'#f59e0b',tall:false,wide:false,
    icon:'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg>'},
-  {title:'Lifecycle Support',body:'Post-deployment SLAs, rapid-response maintenance, and long-term asset management with warranty enforcement.',color:'#ec4899',tall:false,wide:false,
+  {title:'Lifecycle Support',body:'Post deployment SLAs, rapid-response maintenance, and long-term asset management with warranty enforcement.',color:'#ec4899',tall:false,wide:false,
    icon:'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 014.5 12 19.79 19.79 0 011.65 3.18 2 2 0 013.64 1h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L7.91 8.54a16 16 0 006.29 6.29l.95-.95a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg>'},
   {title:'Tailored Integration',body:'Custom configurations engineered for your architectural constraints and corporate brand identity.',color:'#06b6d4',tall:false,wide:false,
    icon:'<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>'},
